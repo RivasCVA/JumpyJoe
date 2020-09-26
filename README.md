@@ -3,3 +3,6 @@ A Java programming class's End-Of-The-Year project. Developed through the [Green
 
 # Download The Game
 Click [here](https://github.com/RivasCVA/JumpyJoe/blob/master/Platformer.jar) to navigate to the .jar file. Download it and run it on your local machine.
+
+# Credits
+Credits to my friend [Agasthya V](https://www.instagram.com/brown.soundd/). He was my project partner and assisted with all of the artistic aspects of the game.
